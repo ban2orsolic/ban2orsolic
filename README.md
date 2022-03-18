@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ban Oršolić
+- 👋 Hi, I’m Ban Oršolić
 - 👀 I’m interested in JavaScript, C, C++ programing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
